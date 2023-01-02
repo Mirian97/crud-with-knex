@@ -1,2 +1,2 @@
 # crud-with-knex
-CRUD de API com o Knex (query builder)
+CRUD de marketplace com o Knex (query builder)
